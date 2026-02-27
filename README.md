@@ -1,5 +1,10 @@
 # 🌙 Moony
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-lightgrey)
+
+
 Moony is a modular Python-based security reconnaissance tool built for learning, research, and authorized testing.
 
 It provides multiple reconnaissance and analysis modules in a clean CLI interface.
