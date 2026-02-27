@@ -34,6 +34,7 @@ pkg update && pkg upgrade
 pkg install git python
 git clone https://github.com/Adwaithpramod1/Moony.git
 cd Moony
-pip install -r requirements.txt
+bash install.sh
 python moony.py
+chmod +x install.sh
 ```
